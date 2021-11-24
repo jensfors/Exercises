@@ -1,4 +1,4 @@
-## Add a Text Alternative to Images for Visually Impaired Accessibility
+# Add a Text Alternative to Images for Visually Impaired Accessibility
 
 Like many others, Peter suffers from visual impairment and relies on screen readers to convert all web content to an audio interface. He will not perceive information if it's only presented visually, since it would equal to the screen being turned off for an individual, who does not suffer from visual impairments. Figure 1 attempts to illustrate this. 
 
