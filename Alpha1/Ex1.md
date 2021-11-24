@@ -13,7 +13,7 @@ Specific, for images, screen readers can access the `alt` attribute and read its
 <img src="myImage.jpeg" alt="alternative text">
 ```
 
-- Add an `alt` attribute to the code.
+- Help Peter accessing the image by adding an `alt` attribute.
 
 ## Examples
 
