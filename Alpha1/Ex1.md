@@ -17,7 +17,7 @@ Specific, for images, screen readers can access the `alt` attribute and read its
 
 ## Examples
 
-![Figure 2: _Close-up of a bear's face_](https://d1mdce1aauxocd.cloudfront.net/_imager/files/Example-Images/Landscape/36/bear_13bf39d392361437fc6b4a44b906c932.jpg) | 
+|![Figure 2: _Close-up of a bear's face_](https://d1mdce1aauxocd.cloudfront.net/_imager/files/Example-Images/Landscape/36/bear_13bf39d392361437fc6b4a44b906c932.jpg) |
 |:--:| 
 | *Figure 2*|
 
