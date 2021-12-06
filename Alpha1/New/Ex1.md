@@ -1,3 +1,10 @@
+---
+layout: default
+title: NewEx1
+parent: Index
+nav_order: 2
+---
+
 # Add a Text Alternative to Images for Visually Impaired Accessibility
 ## Exercise
 
